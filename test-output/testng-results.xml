@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6155" started-at="2022-06-22T18:40:40 CDT" finished-at="2022-06-22T18:40:47 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6155" started-at="2022-06-22T18:40:40 CDT" finished-at="2022-06-22T18:40:47 CDT">
+      <class name="test.AddItemTest">
+        <test-method status="PASS" signature="userShouldNotBeAbleToAddDuplicates()[pri:0, instance:test.AddItemTest@4d41cee]" name="userShouldNotBeAbleToAddDuplicates" duration-ms="3264" started-at="2022-06-22T18:40:40 CDT" finished-at="2022-06-22T18:40:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldNotBeAbleToAddDuplicates -->
+        <test-method status="PASS" signature="userShouldBeAbletoAddItem()[pri:1, instance:test.AddItemTest@4d41cee]" name="userShouldBeAbletoAddItem" duration-ms="2843" started-at="2022-06-22T18:40:44 CDT" finished-at="2022-06-22T18:40:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbletoAddItem -->
+      </class> <!-- test.AddItemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
